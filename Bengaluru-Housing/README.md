@@ -2,7 +2,7 @@ Bengaluru Housing Price Prediction
 
 Problem Statement: The objective of this project is to predict housing prices in Bengaluru and identify key factors influencing property value using machine learning techniques.
 
-DaThe dataset contains information about residential properties in Bengaluru, including features such as: Total square footage, Number of bathrooms, Number of balconies, Location, Price (in lakhs)
+The dataset contains information about residential properties in Bengaluru, including features such as: Total square footage, Number of bathrooms, Number of balconies, Location, Price (in lakhs)
 
 Tools & Libraries used: Python, Pandas, NumPy, Scikit-learn, Matplotlib / Plotly, Jupyter Notebook
 
