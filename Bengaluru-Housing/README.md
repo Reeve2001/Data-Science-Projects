@@ -5,11 +5,10 @@ The objective of this project is to predict housing prices in Bengaluru and iden
 
 Dataset:
 The dataset contains information about residential properties in Bengaluru, including features such as:
--Total square footage
--Number of bathrooms
--Number of balconies
--Location
--Price (in lakhs)
+Total square footage, Number of bathrooms
+Number of balconies
+Location
+Price (in lakhs)
 
 Tools & Libraries used:
 -Python
