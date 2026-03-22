@@ -13,7 +13,7 @@ Model Performance: Mean property price: ₹74 lakhs, Training MAE: ₹11 lakhs, 
 The small gap between training and test error indicates good model generalization and minimal overfitting.
 
 Key Insights:
-Property location significantly impacts price
-Total square footage strongly correlates with property value
-Outlier removal improved model performance substantially
-Pipeline-based preprocessing ensured consistent transformations
+Property location significantly impacts price.
+Total square footage strongly correlates with property value.
+Outlier removal improved model performance substantially.
+Pipeline-based preprocessing ensured consistent transformations.
