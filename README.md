@@ -15,7 +15,7 @@ Folder: `House-Price-Prediction`
 
 ---
 
-### 2. Instrinsic Valuation DCF& Monte Carlo Simulation
+### 2. Instrinsic Valuation DCF & Monte Carlo Simulation
 - Developed a discounted cash flow (DCF) model for stock valuation
 - Applied Monte Carlo simulation to account for uncertainty in growth and discount rates
 - Performed sensitivity analysis to evaluate valuation ranges  
