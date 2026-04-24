@@ -1,4 +1,4 @@
-# Bengaluru Housing Price Prediction
+# Housing Price Prediction
 
 ## Overview
 This project aims to predict residential property prices in Bengaluru using machine learning techniques and identify key factors influencing housing prices.
