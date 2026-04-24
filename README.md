@@ -25,9 +25,9 @@ Folder: `Instrinsic-valuation-DCF-Monte-Carlo`
 ---
 
 ### 3. Portfolio Optimization
--Simulated multiple portfolios using Monte Carlo methods to analyze risk-return tradeoffs across selected stocks
--Applied Modern Portfolio Theory (MPT) to compute expected returns, covariance, and portfolio volatility
--Identified the optimal portfolio allocation by maximizing the Sharpe Ratio and visualized the Efficient Frontier
+- Simulated multiple portfolios using Monte Carlo methods to analyze risk-return tradeoffs across selected stocks
+- Applied Modern Portfolio Theory (MPT) to compute expected returns, covariance, and portfolio volatility
+- Identified the optimal portfolio allocation by maximizing the Sharpe Ratio and visualized the Efficient Frontier
 
 Folder: `Portfolio Optimization`
 
