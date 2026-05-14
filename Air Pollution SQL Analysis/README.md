@@ -36,22 +36,22 @@ This project analyzes 10 years of air pollution and AQI data across major Indian
 ## Sample Outputs
 
 ### 1. Average AQI per city
-![Air Pollution SQL Analysis](screenshots/Screenshot 2026-05-14 124229.png)
+![Air Pollution SQL Analysis](screenshots/1.png)
 
 ### 2. Yearly AQI trends
-![Air Pollution SQL Analysis](screenshots/avg_aqi.png)
+![Air Pollution SQL Analysis](screenshots/2.png)
 
 ### 3. Most polluted month for each city
-![Average AQI](screenshots/avg_aqi.png)
+![Average AQI](screenshots/3.png)
 
 ### 4. AQI category distribution
-![Average AQI](screenshots/avg_aqi.png)
+![Average AQI](screenshots/4.png)
 
 ### 5. Most improved city over time
-![Average AQI](screenshots/avg_aqi.png)
+![Average AQI](screenshots/5.png)
 
 ### 6. Top 5 worst pollution days
-![Average AQI](screenshots/avg_aqi.png)
+![Average AQI](screenshots/6.png)
 
 ### 7. Seasonal pollution analysis
-![Average AQI](screenshots/avg_aqi.png)
+![Average AQI](screenshots/7.png)
